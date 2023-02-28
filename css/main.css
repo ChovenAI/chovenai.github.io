@@ -204,7 +204,7 @@ h1, h2, h3 {
   font-size: 18px;
   line-height: 1.25;
   word-spacing: 0.3em;
-  margin-bottom: 45px;
+  margin-bottom: 15px;
   min-height: 66px;
 }
 
@@ -242,6 +242,7 @@ h1, h2, h3 {
 
 .title-page--software {
   margin-bottom: 20px;
+  font-size: 25px;
 }
 
 .title-block {
